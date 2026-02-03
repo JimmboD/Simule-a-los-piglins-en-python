@@ -2,6 +2,7 @@
 Este código viene del video de los piglins que subi a mi canal: https://youtu.be/X0a6A_n5nJg
 
 El proyecto se compone de 6 scripts y 2 .CSV
+Los dos CSV son producto de simulaciones, resultados como producto de la 1.19 y resultadosV16 de la 1.16.1, si no quieres correr las simulaciones porque es demasiado tiempo los he dejado igualmente.
 
 ## Proceso de ejecución
 ### 1. Correr Simulador.py
